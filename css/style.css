@@ -1,0 +1,15 @@
+
+.box{
+    min-height: 100px;
+    background-color: pink;
+    border: 1px solid black;
+    line-height: 100px;
+    text-align: center;
+    padding: 15px;
+}
+
+.box-dentro{
+    background-color: purple;
+    min-height: 100px;
+    border: 1px solid black;
+}
